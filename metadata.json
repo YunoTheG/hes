@@ -1,5 +1,5 @@
 {
-  "name": "Copy of HES Pokhara Web Portal",
+  "name": "HES Pokhara Web Portal",
   "description": "A comprehensive school management portal for Himalayan English School (Pokhara-5), featuring role-based access (Student, Teacher, Admin), strict single-device session management, assignment tracking, news updates, and a digital gallery. Built with React and Tailwind CSS to match the school's branding.",
   "requestFramePermissions": []
 }
